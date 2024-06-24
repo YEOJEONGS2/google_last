@@ -155,7 +155,6 @@ nav a img{
     color:#666;
     border-radius: 3px;
     cursor: pointer;
-    border: 0;
 }
 .main_wrap button:hover{
     border: 1px solid #ccc;
@@ -163,6 +162,4 @@ nav a img{
     /* background: #fff; */
     background: linear-gradient(to bottom, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
-    opacity: 1;
-
 }
